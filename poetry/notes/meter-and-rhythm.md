@@ -1,0 +1,11 @@
+## Meter and Rhythm
+
+Remember that not all poems follow a strict meter. Some poets intentionally vary the meter or use a combination of meters to create a unique rhythm. Additionally, free verse poems do not adhere to a specific meter but still exhibit rhythm through the natural flow of language.
+
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| **Meter** | Meter refers to the pattern of stressed and unstressed syllables in a line of poetry. The most common meters in English poetry are: <ul><li>Iambic: Consists of two syllables per foot, with the first syllable unstressed and the second syllable stressed (da-DUM).</li><li>Trochaic: Consists of two syllables per foot, with the first syllable stressed and the second syllable unstressed (DUM-da).</li><li>Anapestic: Consists of three syllables per foot, with the first two syllables unstressed and the third syllable stressed (da-da-DUM).</li><li>Dactylic: Consists of three syllables per foot, with the first syllable stressed and the next two syllables unstressed (DUM-da-da).</li></ul> |
+| **Rhythm** | Rhythm refers to the overall pattern of stressed and unstressed syllables in a poem. It is created by the combination of meter, line breaks, and variations in emphasis. <ul><li>Read the poem aloud: By reading the poem aloud, you can better perceive the natural stress and emphasis on certain syllables.</li><li>Observe the punctuation and line breaks: Pay attention to pauses, enjambments (when a sentence or thought continues across line breaks), and end-stopped lines (lines ending with punctuation).</li><li>Look for patterns: Identify repeated patterns of stressed and unstressed syllables. Regular patterns often indicate a consistent meter, while variations suggest intentional deviations from the meter.</li></ul> |
+| **Scansion** | Scansion is the process of marking the stressed and unstressed syllables in a poem to determine its meter. You can mark stressed syllables with a forward slash (/) and unstressed syllables with a breve mark (˘) or a backward slash (\\). |
+| **Practice and familiarity** | Identifying meter and rhythm becomes easier with practice and exposure to various poetic forms. Analyze different poems and pay attention to their structures, patterns, and the effects created by the interplay of meter and rhythm. | 
+

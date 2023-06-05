@@ -1,4 +1,8 @@
-These words aim to capture the sounds and transitions associated with each season change. Feel free to experiment with incorporating them into your poem to enhance the auditory imagery and create a sense of rhythm within the seasonal transitions.
+## Onomatopoeia
+
+Onomatopoeia is the formation of a word from a sound associated with what is name.
+
+These are examples of onomatopoeic words to capture the sounds and transitions associated with each season change. Feel free to experiment with incorporating them into your poem to enhance the auditory imagery and create a sense of rhythm within the seasonal transitions.
 
 Winter to Spring:
 1. Thawing
